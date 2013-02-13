@@ -224,11 +224,11 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_PEDANTIC = YES;
 				HEADER_SEARCH_PATHS = (
-					/opt/local/include,
+					/usr/local/include,
 					"\"$SRCROOT/thirdparty/glfw/include\"",
 					"\"$SRCROOT/thirdparty/stb_image\"",
 				);
-				LIBRARY_SEARCH_PATHS = /opt/local/lib;
+				LIBRARY_SEARCH_PATHS = /usr/local/lib;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = "";
@@ -249,11 +249,11 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_PEDANTIC = YES;
 				HEADER_SEARCH_PATHS = (
-					/opt/local/include,
+					/usr/local/include,
 					"\"$SRCROOT/thirdparty/glfw/include\"",
 					"\"$SRCROOT/thirdparty/stb_image\"",
 				);
-				LIBRARY_SEARCH_PATHS = /opt/local/lib;
+				LIBRARY_SEARCH_PATHS = /usr/local/lib;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				SDKROOT = "";
 				WARNING_CFLAGS = "-Wall";

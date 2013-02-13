@@ -11,6 +11,7 @@ windows/*/ipch/
 osx/*/*.xcodeproj/*
 osx/*/build/
 !osx/*/*.xcodeproj/project.pbxproj
+*.DS_Store
 
 # linux build output
 linux/*/bin/

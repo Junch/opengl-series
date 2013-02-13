@@ -223,11 +223,11 @@
 				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
 				GCC_WARN_PEDANTIC = YES;
 				HEADER_SEARCH_PATHS = (
-					/opt/local/include,
+					/usr/local/include,
 					"\"$SRCROOT/thirdparty/glfw/include\"",
 					"\"$SRCROOT/thirdparty/stb_image\"",
 				);
-				LIBRARY_SEARCH_PATHS = /opt/local/lib;
+				LIBRARY_SEARCH_PATHS = /usr/local/lib;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = "";
@@ -247,11 +247,11 @@
 				GCC_TREAT_WARNINGS_AS_ERRORS = YES;
 				GCC_WARN_PEDANTIC = YES;
 				HEADER_SEARCH_PATHS = (
-					/opt/local/include,
+					/usr/local/include,
 					"\"$SRCROOT/thirdparty/glfw/include\"",
 					"\"$SRCROOT/thirdparty/stb_image\"",
 				);
-				LIBRARY_SEARCH_PATHS = /opt/local/lib;
+				LIBRARY_SEARCH_PATHS = /usr/local/lib;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				SDKROOT = "";
 				WARNING_CFLAGS = "-Wall";
